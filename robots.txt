@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nathanmasson1.github.io/cacamba/sitemap.xml

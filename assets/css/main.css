@@ -699,6 +699,10 @@ body.menu-open {
     color: var(--color-primary);
 }
 
+p.footer-contact-address{
+	color: rgba(255,255,255,.7);
+}
+
 .footer-contact a {
     color: rgba(255,255,255,.7);
 }
